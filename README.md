@@ -6,10 +6,14 @@ A simple Todo List web app that demonstrates basic add, edit and remove task fun
 
 ## What it does
 
-- Add a task ![alt text](image-1.png)
-- Display tasks ![alt text](image-2.png)
-- Edit tasks ![alt text](image-3.png)
-- Remove a task ![alt text](image-4.png)
+- Add a task
+  ![alt text](image-1.png)
+- Display tasks
+  ![alt text](image-2.png)
+- Edit tasks
+  ![alt text](image-3.png)
+- Remove a task
+  ![alt text](image-4.png)
 
 ## How to run
 
